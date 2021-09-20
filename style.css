@@ -18,6 +18,10 @@ div {
 	text-align:center;	
 }
 
+h1 {
+	text-align:center;
+}
+
 a {
 	background-color: #d0d0d0;
 	border: none;
@@ -36,4 +40,10 @@ a {
 
 a:hover {
 	background-color: #bdbdbd;
+}
+
+.project {
+	width:60%;
+	margin:auto;
+	text-align: left;
 }
