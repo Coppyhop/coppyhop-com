@@ -1,6 +1,4 @@
 TODO:
-	-Add cover photo for portfolio
-	-Add more to about me, maybe even some pictures/info about server and such
 	-Fix HackAZ 2020
 	-Update HackAZ 2020's styling to be consistent with site
 	-Image previews of projects

@@ -22,6 +22,20 @@ h1 {
 	text-align:center;
 }
 
+img {
+	border-radius: 12px;
+}
+
+.ifl {
+	float: left;
+	padding-right: 20px;
+}
+
+.ifr {
+	float: right;
+	padding-left: 20px;
+}
+
 a {
 	background-color: #d0d0d0;
 	border: none;
