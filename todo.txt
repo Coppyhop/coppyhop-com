@@ -5,3 +5,4 @@ TODO:
 	-Update HackAZ 2020's styling to be consistent with site
 	-Image previews of projects
 	-Compile web-app version of CKBSudoku
+	-Front end for resume Generator, allow date ranges and stuff like that through GET requests (allows static linking)
